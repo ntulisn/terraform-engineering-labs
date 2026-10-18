@@ -36,7 +36,7 @@ It confirms successful validation of all configuration files.
 
 ### Terraform Plan
 
-![Terraform Plan](screenshots/terraform-init.png)
+![Terraform Plan](screenshots/terraform-plan.png)
 
 It verifies that Terraform compared the configuration with the current state and outlined the actions it would take.
 
