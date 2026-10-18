@@ -18,10 +18,15 @@
 ## Execution & Build Verification
 
 ### Terraform Validation
+It confirms successful validation of all configuration files.
 ![Terraform Validation](screenshots/terraform-validate.png)
 
 ### Terraform Plan
 ![Terraform Plan](screenshots/terraform-init.png)
-
+It verifies that Terraform compared the configuration with the current state and outlined the actions it would take.
 ### Final Execution Results
 ![Execution Results](screenshots/terraform-plan.png)
+
+## Main.tf
+
+Thi
