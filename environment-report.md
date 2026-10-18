@@ -11,5 +11,6 @@
 - **Resolutions:** Switched to a standard Linux bash terminal environment where `touch` works perfectly. Linked the remote GitHub repository URL securely using `git remote add origin`, synchronized histories via branch alignment pulls, and ran a targeting git cleanup to purge untracked typos.
 
 ## Verification Screenshots
-![Terraform Version](terraform-version.png)
-![Git Version](git-version.png)
+![Terraform Version](screenshots/terraform-version.png)
+![Git Version](screenshots/git-version.png)
+
