@@ -14,3 +14,15 @@
 ![Terraform Version](screenshots/terraform-version.png)
 ![Git Version](screenshots/git-version.png)
 
+## Execution & Build Verification
+
+## Execution & Build Verification
+
+### Terraform Validation
+![Terraform Validation](.screenshots/terraform-validate.png)
+
+### Terraform Plan
+![Terraform Plan](.screenshot/terraform-init.png)
+
+### Final Execution Results
+![Execution Results](./assets/screenshot-03.png)
