@@ -44,6 +44,3 @@ It verifies that Terraform compared the configuration with the current state and
 
 ![Terraform Format](screenshots/terraform-version.png)
 
-## Main.tf
-
-Thi
