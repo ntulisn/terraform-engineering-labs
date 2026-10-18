@@ -12,8 +12,9 @@
 
 ## Verification Screenshots
 ![Terraform Version](screenshots/terraform-version.png)
+Confirms the Terraform version installed and up to date and to avoid compatibility issues with your existing infrastructure
 ![Git Version](screenshots/git-version.png)
-
+Confirming that Git is installed on your system is a crucial step before using it for version control.
 
 ## Execution & Build Verification
 
