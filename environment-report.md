@@ -22,14 +22,21 @@ Confirming that Git is installed on your system is a crucial step before using i
 
 ## Execution & Build Verification
 
+### Terraform Initialize
+
+![Terraform Initialize](screenshots/terraform-init.png)
+
+It initializes a Terraform working directory by configuring the backend, downloading required provider plugins, fetching modules, and creating the .terraform directory that stores these dependencies.
+
 ### Terraform Validation
 
 It confirms successful validation of all configuration files.
+
 ![Terraform Validation](screenshots/terraform-validate.png)
 
 ### Terraform Plan
 
-![Terraform Plan](screenshots/terraform-init.png)
+![Terraform Plan](screenshots/terraform-plan.png)
 
 It verifies that Terraform compared the configuration with the current state and outlined the actions it would take.
 
