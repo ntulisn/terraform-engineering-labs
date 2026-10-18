@@ -1,4 +1,4 @@
-# Lab 01: Environment Check Report
+## Lab 01: Environment Check Report
 
 - **Name:** Sandile Ntuli
 - **Operating System:** Linux / Ubuntu (WSL)
